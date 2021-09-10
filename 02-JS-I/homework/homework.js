@@ -92,7 +92,7 @@ function esPar(num) {
 if (num % 2 === 0){
   return true;
 } else { return false;}
-}  // Devuelve "true" si "num" es par
+}  // Devuelve "true" si "num" es par.
   // De lo contrario, devuelve "false"
   // Tu código:
 
